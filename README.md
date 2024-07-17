@@ -73,3 +73,12 @@ Open [http://localhost:3000](http://localhost:3000) with your browser to see the
 > ```bash
 > npm run start
 > ```
+
+## Deploy the app
+
+Build and deploy the service to Google Cloud Run:
+
+```bash
+gcloud config set project [PROJECT_ID]
+gcloud run deploy
+```
