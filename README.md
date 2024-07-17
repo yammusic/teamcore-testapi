@@ -10,7 +10,7 @@
 
 [https://teamcore-testapi.vercel.app/](https://teamcore-testapi.vercel.app/)
 
-### Service Functionalities
+## Service Functionalities
 
 - Fetch questions from an external API.
 - Provide a new endpoint with reformatted JSON response.
